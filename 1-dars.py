@@ -29,3 +29,6 @@
 # print("{a} sonni 12 songa kopaytirsak {b} natijani olamiz".format(a=a,b=b))
 # print(f" {a} sonini 12 ga kopaytirganda natija {b}")
 
+# import math
+# a = 6*math.pi
+# print(a)
