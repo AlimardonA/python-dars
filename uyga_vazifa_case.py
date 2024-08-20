@@ -64,3 +64,13 @@
 #         print("Notugri raqam kiritildi:")
 
 ######case4
+# x = float(input("x sonni kiriting: "))
+# match x:
+#     case 1:
+#         print("Yanvar 31 kun mavjud")
+#     case 2:
+#         print("fevral 28 kun mavjud")
+#     case 3:
+#         print("mart 31 kun mavjud")
+#     case 4:
+#         print("may 31 kun mavjud")
