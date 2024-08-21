@@ -61,11 +61,30 @@
 ##for10
 
 ##for10
-k = 0
-n = int(input("n soni kiriting:\n>>>"))
-for i in range(1, n):
-    s = 1/i
-    k+=s
-print(k)
+# k = 0
+# n = int(input("n soni kiriting:\n>>>"))
+# for i in range(1, n):
+#     s = 1/i
+#     k+=s
+# print(k)
+
+# ##for11
+# s=0
+# n = int(input("n soni kiriting:\n>>>"))
+# for i in range(1, n):
+#     i+=1
+#     s+=i**2
+# print(s)
+
+# ##for12
+# s=0
+# y=0
+# n = int(input("n soni kiriting:\n>>>"))
+# for i in range(11, n, 2 ):
+#   s+=i
+# for k in range (12, n, 2):
+#    y+=k
+# print(f"{s*(-1)/10+y/10}")
     
+
 
