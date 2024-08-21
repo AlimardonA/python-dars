@@ -4,23 +4,68 @@
 # for i in range(n):
 #     i=k
 #     print(i)
-##for2
+#for2
 # a = int(input("a soni kiriting:\n>>>"))
 # b = int(input("b soni kiriting:\n>>>"))
-# s =0
-# for i in range(a,b+1):
-#     s+=1
+# s = 0
+# for i in range(a,b):
+#     # s+=1
 #     print(i)
 # print(f"Chiqarilgam sonlar soni {s}")
 ##for3
-a = int(input("a soni kiriting:\n>>>"))
-b = int(input("b soni kiriting:\n>>>"))
-s =0
-for i in range(b,a,-1):
-    s+=1
-    print(i)
-print(f"Chiqarilgam sonlar soni {s}")
+# a = int(input("a soni kiriting:\n>>>"))
+# b = int(input("b soni kiriting:\n>>>"))
+# s =0
+# for i in range(b,a,-1):
+#     s+=1
+#     print(i)
+# print(f"Chiqarilgam sonlar soni {s}")
+##for4
+# a = int(input("konfet narxini kiriting:\n>>>")) 
+# for i in range (1, 10):
+#     s=i*a
+#     print(f"{i} kg konfet {s} so'm turadi")
+##for5
+# a = int(input("konfet narxini kiriting:\n>>>")) 
+# for i in range (1, 10):
+#     s=i*a
+#     print(f"{i/10} kg konfet {s/10} so'm turadi")
+##for6
+# a = int(input("konfet narxini kiriting:\n>>>")) 
+# for i in range (12, 20, 2):
+#     s=i*a
+#     print(f"{i/10} kg konfet {s/10} so'm turadi")
+##for7
+# a = int(input("a soni kiriting:\n>>>"))
+# b = int(input("b soni kiriting:\n>>>"))
+# s = 0
+# for i in range(a, b):
+#     s+=i
+# print(s)
+##for8
+# a = int(input("a soni kiriting:\n>>>"))
+# b = int(input("b soni kiriting:\n>>>"))
+# s = 1
+# for i in range(a, b):
+#     s*=i
+# print(s)
+##for9
+# a = int(input("a soni kiriting:\n>>>"))
+# b = int(input("b soni kiriting:\n>>>"))
+# s = 1
+# k=0
+# for i in range(a, b):
+#     s=i**2
+#     k+=s
+# print(k)
+##for10
 
+##for10
+k = 0
+n = int(input("n soni kiriting:\n>>>"))
+for i in range(1, n):
+    s = 1/i
+    k+=s
+print(k)
+    
 
-
-   
