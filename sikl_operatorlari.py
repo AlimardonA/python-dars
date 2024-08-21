@@ -76,7 +76,7 @@
 #     s+=i**2
 # print(s)
 
-# ##for12
+# ##for13
 # s=0
 # y=0
 # n = int(input("n soni kiriting:\n>>>"))
@@ -85,6 +85,10 @@
 # for k in range (12, n, 2):
 #    y+=k
 # print(f"{s*(-1)/10+y/10}")
-    
 
-
+# ##for14
+# n = int(input("n soni kiriting:\n>>>"))
+# for i in range(1, n, 2):
+#     i = i+1
+#     s=i**0.5
+# print(s)
