@@ -115,22 +115,6 @@
 #     s*=i
 # print(s)
 
-#while-1
-# a = int(input("a soni kiriting:\n>>>"))
-# b = int(input("b soni kiriting:\n>>>"))
-# while a>b:
-#     a-=b
-# print(a)
-#while-2
-# s=0
-# a = int(input("a soni kiriting:\n>>>"))
-# b = int(input("b soni kiriting:\n>>>"))
-# while a>b:
-#     a-=b
-#     s+=1
-# print(s)
-#while-3
-a = int(input("a soni kiriting:\n>>>"))
-b = int(input("b soni kiriting:\n>>>"))
-while a>b:
-    a-=b
+
+        
+
