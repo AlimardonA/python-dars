@@ -44,11 +44,35 @@
 #     n -= 2
 # print(k)
 ##7-while
-n = int(input("n sonini kiriting: "))
-k=1
-while k**2<=n:
-    k+=1
-print(k)
-    
+# n = int(input("n sonini kiriting: "))
+# k=1
+# while k**2<=n:
+#     k+=1
+# print(k)
+##17-while
+# n = int(input("n sonini kiriting\n>>>"))
+# m = int(input("m sonini kiriting\n>>>"))
+# i = 0
+# s = n
+# while n>=m:
+#     n=n-m
+#     i+=1
+# print(f"{s} ni {m} ga bolganda butun qismi {i} ga qoldiq qismi esa {n} ga teng")
+
+##18-while
+# n = int(input("Butun sonni kiriting: "))
+# s = 0
+# i = n
+
+# while i > 0:
+#     k = i % 10
+#     s= s * 10 + k
+#     i = i // 10
+#     print(s)
+# print("Raqamlarning teskari tartibi:", s)
+
+
+
+
 
 
